@@ -1,4 +1,4 @@
-package com.galactic_Ninja.spring.basics.springbootwebapplication.Service;
+package com.galactic_Ninja.spring.basics.springbootwebapplication.service;
 
 import org.springframework.stereotype.Component;
 
